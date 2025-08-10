@@ -130,7 +130,7 @@ curl -X POST \
 ### Resource Server (http://localhost:8080)
 - `GET /api/messages` - Get all messages (requires message.read)
 - `POST /api/messages` - Add message (requires message.write)
-- `GET /public/health` - Public health check
+- `GET /actuator/health` - Public health check
 
 ## Configuration
 
