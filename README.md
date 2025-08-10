@@ -5,7 +5,7 @@ A multi-module Maven project demonstrating OAuth2 Authorization Server and Resou
 ## Project Structure
 
 ```
-oauth2-microservices/
+spring-oauth2-demo/
 ├── pom.xml                           # Parent POM
 ├── docker-compose.yml                # Docker Compose configuration
 ├── .dockerignore                     # Docker ignore file
